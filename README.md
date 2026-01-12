@@ -1,6 +1,7 @@
 # 🚗 Smart Parking System using ESP32
 
 ## 📌 Project Overview
+https://wokwi.com/projects/452692412398309377
 This project demonstrates a Smart Parking System using an ESP32 microcontroller.
 The system detects vehicle entry using a PIR motion sensor, controls a gate using a servo motor,
 and displays the available parking slots on a 16x2 LCD.
